@@ -75,15 +75,10 @@ body{
     opacity: 0;
     /* visibility: hidden; */
 }
- .a-home .i-blog .blog:hover .div-dropdown{
-/* visibility: hidden; */
-}
-.a-home  .i-blog .blog:hover .div-dropdown {
-    /* visibility: visible; */
-    }
+
 .div-dropdown:hover  {
     opacity: 1;
-    background-color: rgb(161, 156, 158);
+     background-color: rgb(205, 203, 203);
     color: rgb(255, 249, 249);
     /* visibility: visible;   */
 }
